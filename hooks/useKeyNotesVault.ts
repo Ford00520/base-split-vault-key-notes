@@ -4,6 +4,7 @@ import { useMemo, useState } from 'react'
 import { keccak256, toBytes, type Address, type Hex } from 'viem'
 import { useAccount, useReadContract, useWaitForTransactionReceipt, useWriteContract } from 'wagmi'
 import { KEY_NOTES_VAULT_CONTRACT_ADDRESS, keyNotesVaultAbi } from '@/lib/contracts'
+import { attributionDataSuffix } from '@/lib/wagmi'
 
 export const noteStatusLabels = ['draft', 'sealed', 'revealed', 'archived'] as const
 
@@ -97,6 +98,7 @@ export function useKeyNotesVault() {
     writeContract({
       abi: keyNotesVaultAbi,
       address: KEY_NOTES_VAULT_CONTRACT_ADDRESS,
+      dataSuffix: attributionDataSuffix,
       functionName: 'createNote',
       args: [noteHash]
     })
@@ -107,6 +109,7 @@ export function useKeyNotesVault() {
     writeContract({
       abi: keyNotesVaultAbi,
       address: KEY_NOTES_VAULT_CONTRACT_ADDRESS,
+      dataSuffix: attributionDataSuffix,
       functionName: 'setNoteStatus',
       args: [noteId, noteStatusLabels.indexOf(status)]
     })
