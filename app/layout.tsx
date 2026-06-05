@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   title: 'base-split-vault-key-notes',
   description: 'A sealed key note vault for saving short notes and status proofs on Base.',
   applicationName: 'base-split-vault-key-notes',
-  metadataBase: new URL('https://base-split-vault-key-notes.vercel.app'),
+  metadataBase: new URL('https://key-notes-vault.vercel.app'),
   openGraph: {
     title: 'base-split-vault-key-notes',
     description: 'A sealed key note vault for saving short notes and status proofs on Base.',
-    url: 'https://base-split-vault-key-notes.vercel.app',
+    url: 'https://key-notes-vault.vercel.app',
     siteName: 'base-split-vault-key-notes',
     type: 'website'
   }
@@ -28,10 +28,6 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="base:app_id" content={BASE_APP_ID} />
-        <meta
-          name="talentapp:project_verification"
-          content="c72e1997b2a5f7c751001aaf5fe9122349136a041df6c64c06cd757abb94722c9ac31eeb56c47c32b9d1df209346c1e29836d4403d9167139361adee2266fc4e"
-        />
         <meta
           name="talentapp:project_verification"
           content="16e344a8a12da84c7e0e464758623983773603f12b0c9b815ead6d08a05cb68f96a5c8716e147c6c9136bcea4a0eceea929271e40444a4591601ef894f00f413"
