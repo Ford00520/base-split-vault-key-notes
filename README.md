@@ -109,3 +109,9 @@ For clear and maintainable notes:
 ## Maintenance Notes
 
 Keep the README updated as the project evolves.
+
+When new conventions are introduced, document them here so future contributors can follow the same approach.
+
+If the repository gains build steps, dependencies, scripts, or configuration requirements, add those details to the setup and usage sections.
+
+## Contributing
