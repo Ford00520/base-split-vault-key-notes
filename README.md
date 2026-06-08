@@ -61,3 +61,10 @@ Recommended first steps:
 2. Review the existing file structure.
 3. Read any notes or documentation already included.
 4. Add new notes in a consistent format.
+5. Commit changes with clear messages.
+
+## Usage
+
+Use KeyNotesVault as a maintained notes repository.
+
+Suggested workflow:
