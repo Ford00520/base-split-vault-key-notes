@@ -115,3 +115,11 @@ When new conventions are introduced, document them here so future contributors c
 If the repository gains build steps, dependencies, scripts, or configuration requirements, add those details to the setup and usage sections.
 
 ## Contributing
+
+Before contributing, review the current structure and style of the repository.
+
+When adding content:
+
+- Keep language clear and direct.
+- Use consistent formatting.
+- Include enough context for future readers.
