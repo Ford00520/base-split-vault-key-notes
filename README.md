@@ -95,3 +95,10 @@ If the repository grows, consider organizing notes into folders such as:
 These folders are suggestions only and can be adjusted to match the project鈥檚 needs.
 
 ## Writing Guidelines
+
+For clear and maintainable notes:
+
+- Use concise titles.
+- Start each document with a short summary.
+- Prefer simple Markdown formatting.
+- Keep sections focused.
