@@ -102,3 +102,10 @@ For clear and maintainable notes:
 - Start each document with a short summary.
 - Prefer simple Markdown formatting.
 - Keep sections focused.
+- Link related notes when helpful.
+- Date time-sensitive information when appropriate.
+- Avoid duplicating the same content in multiple places.
+
+## Maintenance Notes
+
+Keep the README updated as the project evolves.
