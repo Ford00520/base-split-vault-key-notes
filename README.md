@@ -11,3 +11,11 @@ KeyNotesVault provides a central place to store, review, and manage important no
 The project is intended to be simple, readable, and easy to maintain.
 
 Use it as a vault for reference material, planning notes, implementation details, or other project-related documentation.
+
+Because the original project description is intentionally minimal, this README focuses on practical guidance for getting started and keeping the repository organized.
+
+## Features
+
+- Centralized location for key notes.
+- Clear repository identity and project purpose.
+- Simple structure that can grow over time.
