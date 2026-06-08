@@ -88,3 +88,10 @@ git commit -m "Update key notes"
 If the repository grows, consider organizing notes into folders such as:
 
 - `notes/` for general notes.
+- `references/` for supporting material.
+- `plans/` for planning documents.
+- `archive/` for older content that should be retained but is no longer active.
+
+These folders are suggestions only and can be adjusted to match the project鈥檚 needs.
+
+## Writing Guidelines
