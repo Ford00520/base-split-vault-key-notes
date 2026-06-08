@@ -123,3 +123,9 @@ When adding content:
 - Keep language clear and direct.
 - Use consistent formatting.
 - Include enough context for future readers.
+- Avoid adding unnecessary complexity.
+- Make changes in focused commits.
+
+## Project Status
+
+This repository currently has a minimal public description.
