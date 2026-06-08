@@ -32,3 +32,11 @@ https://github.com/Ford00520/base-split-vault-key-notes.git
 ## Getting Started
 
 To work with this repository locally, clone it from GitHub:
+
+```bash
+git clone https://github.com/Ford00520/base-split-vault-key-notes.git
+```
+
+Then move into the project directory:
+
+```bash
