@@ -68,3 +68,9 @@ Recommended first steps:
 Use KeyNotesVault as a maintained notes repository.
 
 Suggested workflow:
+
+1. Create or update a note.
+2. Keep related information grouped together.
+3. Use clear headings and descriptive file names.
+4. Remove outdated information when it is no longer useful.
+5. Commit updates regularly.
