@@ -26,3 +26,9 @@ Because the original project description is intentionally minimal, this README f
 ## Repository
 
 The project is available at:
+
+https://github.com/Ford00520/base-split-vault-key-notes.git
+
+## Getting Started
+
+To work with this repository locally, clone it from GitHub:
