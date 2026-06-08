@@ -47,3 +47,10 @@ Review the existing files before making changes:
 
 ```bash
 ls
+```
+
+## Setup
+
+No specific setup requirements are documented for this project.
+
+If additional tools, dependencies, or configuration steps are added later, document them in this section.
