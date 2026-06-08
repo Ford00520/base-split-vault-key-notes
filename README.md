@@ -74,3 +74,10 @@ Suggested workflow:
 3. Use clear headings and descriptive file names.
 4. Remove outdated information when it is no longer useful.
 5. Commit updates regularly.
+
+Example Git workflow:
+
+```bash
+git status
+git add .
+git commit -m "Update key notes"
