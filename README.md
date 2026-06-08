@@ -40,3 +40,10 @@ git clone https://github.com/Ford00520/base-split-vault-key-notes.git
 Then move into the project directory:
 
 ```bash
+cd base-split-vault-key-notes
+```
+
+Review the existing files before making changes:
+
+```bash
+ls
