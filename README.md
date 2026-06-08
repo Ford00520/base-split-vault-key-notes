@@ -19,3 +19,10 @@ Because the original project description is intentionally minimal, this README f
 - Centralized location for key notes.
 - Clear repository identity and project purpose.
 - Simple structure that can grow over time.
+- Suitable for documentation, references, and planning material.
+- Easy to clone, review, and update.
+- Designed to support incremental improvements.
+
+## Repository
+
+The project is available at:
