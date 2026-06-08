@@ -54,3 +54,10 @@ ls
 No specific setup requirements are documented for this project.
 
 If additional tools, dependencies, or configuration steps are added later, document them in this section.
+
+Recommended first steps:
+
+1. Clone the repository.
+2. Review the existing file structure.
+3. Read any notes or documentation already included.
+4. Add new notes in a consistent format.
