@@ -5,3 +5,9 @@ KeyNotesVault is a repository for organizing and maintaining key notes in a dedi
 Repository: <https://github.com/Ford00520/base-split-vault-key-notes.git>
 
 ## Overview
+
+KeyNotesVault provides a focused place to store, review, and update important notes.
+
+The project is intentionally simple and can be adapted to the needs of the repository owner or contributors.
+
+Use this README as the starting point for understanding the repository, setting it up locally, and contributing changes.
