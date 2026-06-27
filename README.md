@@ -63,3 +63,9 @@ ls
 ## Usage
 
 Open the project directory in your preferred editor.
+
+Review the existing files before making changes.
+
+Add or update notes as needed.
+
+Use clear filenames and concise headings so future updates are easy to find.
