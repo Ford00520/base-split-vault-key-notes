@@ -95,3 +95,11 @@ If the repository grows, consider organizing notes into folders such as:
 - `references/`
 - `docs/`
 - `archive/`
+
+Only add folders that are useful for the actual content in the project.
+
+## Contribution Notes
+
+Keep contributions focused and easy to review.
+
+Use descriptive commit messages.
