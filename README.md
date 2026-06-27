@@ -37,3 +37,9 @@ Before you begin, make sure you have Git installed on your system.
 You can verify Git is available by running:
 
 ```bash
+git --version
+```
+
+## Installation
+
+Clone the repository:
