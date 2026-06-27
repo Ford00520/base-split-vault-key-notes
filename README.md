@@ -18,3 +18,8 @@ Use this README as the starting point for understanding the repository, setting 
 - Clear repository identity and source URL.
 - Simple structure that can grow over time.
 - Suitable for maintaining written notes, references, and project documentation.
+- Easy to clone, review, and update with standard Git workflows.
+
+## Repository URL
+
+The canonical repository is available at:
