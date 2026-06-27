@@ -109,3 +109,9 @@ Avoid mixing unrelated changes in a single commit.
 Prefer clear Markdown formatting for notes and documentation.
 
 Check spelling and formatting before submitting changes.
+
+## Maintenance
+
+Review notes periodically to keep them accurate and useful.
+
+Remove outdated content when it is no longer needed.
