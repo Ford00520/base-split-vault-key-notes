@@ -90,3 +90,8 @@ git commit -m "Update key notes"
 ## Suggested Organization
 
 If the repository grows, consider organizing notes into folders such as:
+
+- `notes/`
+- `references/`
+- `docs/`
+- `archive/`
