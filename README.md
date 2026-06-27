@@ -77,3 +77,9 @@ git status
 ```
 
 ```bash
+git diff
+```
+
+Commit your updates with a clear message:
+
+```bash
