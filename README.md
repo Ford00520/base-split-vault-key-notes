@@ -43,3 +43,9 @@ git --version
 ## Installation
 
 Clone the repository:
+
+```bash
+git clone https://github.com/Ford00520/base-split-vault-key-notes.git
+```
+
+Move into the project directory:
