@@ -115,3 +115,9 @@ Check spelling and formatting before submitting changes.
 Review notes periodically to keep them accurate and useful.
 
 Remove outdated content when it is no longer needed.
+
+Update this README when the repository structure or usage changes.
+
+## License
+
+No license information is currently provided in the original README.
