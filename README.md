@@ -103,3 +103,9 @@ Only add folders that are useful for the actual content in the project.
 Keep contributions focused and easy to review.
 
 Use descriptive commit messages.
+
+Avoid mixing unrelated changes in a single commit.
+
+Prefer clear Markdown formatting for notes and documentation.
+
+Check spelling and formatting before submitting changes.
