@@ -11,3 +11,10 @@ KeyNotesVault provides a focused place to store, review, and update important no
 The project is intentionally simple and can be adapted to the needs of the repository owner or contributors.
 
 Use this README as the starting point for understanding the repository, setting it up locally, and contributing changes.
+
+## Features
+
+- Dedicated project space for key notes.
+- Clear repository identity and source URL.
+- Simple structure that can grow over time.
+- Suitable for maintaining written notes, references, and project documentation.
