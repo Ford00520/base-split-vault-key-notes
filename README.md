@@ -83,3 +83,10 @@ git diff
 Commit your updates with a clear message:
 
 ```bash
+git add .
+git commit -m "Update key notes"
+```
+
+## Suggested Organization
+
+If the repository grows, consider organizing notes into folders such as:
