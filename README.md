@@ -121,3 +121,11 @@ Update this README when the repository structure or usage changes.
 ## License
 
 No license information is currently provided in the original README.
+
+Add a license file if the project requires one.
+
+## Project Status
+
+This repository currently has a minimal README and can be expanded as the project develops.
+
+Use this document as a practical foundation for future documentation updates.
