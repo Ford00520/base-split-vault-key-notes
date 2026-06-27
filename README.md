@@ -23,3 +23,11 @@ Use this README as the starting point for understanding the repository, setting 
 ## Repository URL
 
 The canonical repository is available at:
+
+<https://github.com/Ford00520/base-split-vault-key-notes.git>
+
+## Getting Started
+
+Follow the steps below to create a local copy of the project.
+
+### Prerequisites
