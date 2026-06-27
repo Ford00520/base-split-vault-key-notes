@@ -49,3 +49,11 @@ git clone https://github.com/Ford00520/base-split-vault-key-notes.git
 ```
 
 Move into the project directory:
+
+```bash
+cd base-split-vault-key-notes
+```
+
+Review the repository contents:
+
+```bash
