@@ -57,3 +57,9 @@ cd base-split-vault-key-notes
 Review the repository contents:
 
 ```bash
+ls
+```
+
+## Usage
+
+Open the project directory in your preferred editor.
