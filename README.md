@@ -108,3 +108,13 @@ Commit your changes with a clear message:
 
 ```bash
 git commit -m "Update key notes"
+```
+
+## Suggested Organization
+
+If the repository grows, consider organizing files into folders.
+
+Possible folder names include:
+
+- `notes/`
+- `references/`
