@@ -164,3 +164,11 @@ Remove outdated content when it is no longer needed.
 Archive older material if it may still be useful for reference.
 
 Rename files when a clearer name would make them easier to find.
+
+Keep the repository structure simple and understandable.
+
+Update documentation whenever workflows or conventions change.
+
+## License
+
+No license information is currently provided in the original README.
