@@ -81,3 +81,12 @@ Review the existing files before making changes.
 Add new notes when useful information needs to be recorded.
 
 Update existing notes when information changes or can be improved.
+
+Use clear filenames so files are easy to identify later.
+
+Use concise headings inside Markdown files to make notes easier to scan.
+
+Before committing changes, check the current repository status:
+
+```bash
+git status
