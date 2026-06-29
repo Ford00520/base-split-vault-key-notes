@@ -136,3 +136,11 @@ Prefer short sections and descriptive headings.
 Keep related information together.
 
 Avoid duplicating the same information in multiple files unless necessary.
+
+Link between related notes when it improves navigation.
+
+Use lists, tables, or code blocks when they make information easier to understand.
+
+## Contribution Notes
+
+Keep contributions focused and easy to review.
