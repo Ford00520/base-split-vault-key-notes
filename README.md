@@ -71,3 +71,13 @@ On Windows PowerShell, you can also use:
 ```powershell
 Get-ChildItem
 ```
+
+## Usage
+
+Open the project directory in your preferred editor.
+
+Review the existing files before making changes.
+
+Add new notes when useful information needs to be recorded.
+
+Update existing notes when information changes or can be improved.
