@@ -126,3 +126,13 @@ Only add folders when they serve a real purpose for the content in the repositor
 A smaller structure is often easier to maintain than an overly detailed one.
 
 ## Writing Guidelines
+
+Use Markdown for notes whenever possible.
+
+Start each note with a clear title.
+
+Prefer short sections and descriptive headings.
+
+Keep related information together.
+
+Avoid duplicating the same information in multiple files unless necessary.
