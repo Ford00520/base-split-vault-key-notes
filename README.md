@@ -61,3 +61,13 @@ cd base-split-vault-key-notes
 ```
 
 Review the repository contents:
+
+```bash
+ls
+```
+
+On Windows PowerShell, you can also use:
+
+```powershell
+Get-ChildItem
+```
