@@ -35,3 +35,11 @@ The canonical repository is available at:
 Follow the steps below to create a local copy of the repository and begin working with the notes.
 
 ## Prerequisites
+
+Before you begin, make sure Git is installed on your system.
+
+Check your Git installation with:
+
+```bash
+git --version
+```
