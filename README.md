@@ -43,3 +43,13 @@ Check your Git installation with:
 ```bash
 git --version
 ```
+
+If Git is not installed, install it using the recommended method for your operating system.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Ford00520/base-split-vault-key-notes.git
+```
