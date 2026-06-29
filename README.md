@@ -7,3 +7,11 @@ Repository: <https://github.com/Ford00520/base-split-vault-key-notes.git>
 ## Overview
 
 KeyNotesVault provides a focused place to store key notes, references, and supporting documentation.
+
+The project is intentionally lightweight so it can be adapted as the collection grows.
+
+It is suitable for personal notes, project documentation, reference material, and archived information that should remain easy to find.
+
+This README explains the purpose of the repository, how to set it up locally, and how to maintain it over time.
+
+## Features
