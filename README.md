@@ -118,3 +118,11 @@ Possible folder names include:
 
 - `notes/`
 - `references/`
+- `docs/`
+- `archive/`
+
+Only add folders when they serve a real purpose for the content in the repository.
+
+A smaller structure is often easier to maintain than an overly detailed one.
+
+## Writing Guidelines
