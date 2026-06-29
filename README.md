@@ -25,3 +25,13 @@ This README explains the purpose of the repository, how to set it up locally, an
 - Practical starting point for a growing note vault.
 
 ## Repository URL
+
+The canonical repository is available at:
+
+<https://github.com/Ford00520/base-split-vault-key-notes.git>
+
+## Getting Started
+
+Follow the steps below to create a local copy of the repository and begin working with the notes.
+
+## Prerequisites
