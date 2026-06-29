@@ -144,3 +144,13 @@ Use lists, tables, or code blocks when they make information easier to understan
 ## Contribution Notes
 
 Keep contributions focused and easy to review.
+
+Use descriptive commit messages.
+
+Avoid mixing unrelated changes in a single commit.
+
+Review spelling, formatting, and file organization before committing.
+
+Make sure updates improve the clarity or usefulness of the repository.
+
+If the repository structure changes, update this README to match.
