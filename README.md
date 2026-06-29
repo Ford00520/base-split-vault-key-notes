@@ -154,3 +154,13 @@ Review spelling, formatting, and file organization before committing.
 Make sure updates improve the clarity or usefulness of the repository.
 
 If the repository structure changes, update this README to match.
+
+## Maintenance
+
+Review notes periodically to keep them accurate and useful.
+
+Remove outdated content when it is no longer needed.
+
+Archive older material if it may still be useful for reference.
+
+Rename files when a clearer name would make them easier to find.
