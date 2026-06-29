@@ -172,3 +172,13 @@ Update documentation whenever workflows or conventions change.
 ## License
 
 No license information is currently provided in the original README.
+
+Add a license file if the project requires one.
+
+## Project Status
+
+KeyNotesVault currently provides a minimal foundation for maintaining key notes.
+
+The repository can be expanded over time as more notes, references, and documentation are added.
+
+Use this README as a practical guide for setup, usage, and future maintenance.
