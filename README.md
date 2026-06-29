@@ -90,3 +90,12 @@ Before committing changes, check the current repository status:
 
 ```bash
 git status
+```
+
+Review file differences:
+
+```bash
+git diff
+```
+
+Stage your updates:
