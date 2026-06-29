@@ -15,3 +15,13 @@ It is suitable for personal notes, project documentation, reference material, an
 This README explains the purpose of the repository, how to set it up locally, and how to maintain it over time.
 
 ## Features
+
+- Dedicated space for key notes and documentation.
+- Simple structure that can evolve as needed.
+- Clear repository identity and canonical source URL.
+- Compatible with standard Git workflows.
+- Easy to clone, review, edit, and update.
+- Suitable for Markdown-based notes and reference files.
+- Practical starting point for a growing note vault.
+
+## Repository URL
