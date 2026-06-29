@@ -99,3 +99,12 @@ git diff
 ```
 
 Stage your updates:
+
+```bash
+git add .
+```
+
+Commit your changes with a clear message:
+
+```bash
+git commit -m "Update key notes"
